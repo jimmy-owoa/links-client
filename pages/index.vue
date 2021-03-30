@@ -1,6 +1,6 @@
 <template>
   <v-row justify-sm="center" align-sm="center">
-    <v-col cols="7">
+    <v-col cols="12">
       <v-img src="https://jeremiasgutierrez.cl/wp-content/uploads/2021/03/18475845.jpeg" height="100" contain></v-img>
     </v-col>
     <v-col cols="7">

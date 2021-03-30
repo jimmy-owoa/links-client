@@ -1,5 +1,5 @@
 <template>
-  <v-card elevation="3" height="60" min-width="480" hover light class="rounded-card" :href="link" target="_blank">
+  <v-card elevation="3" height="60" min-width="420" hover light class="rounded-card" :href="link" target="_blank">
     <v-row>
       <v-col cols="2">
         <v-img
